@@ -1,0 +1,4 @@
+** linguist-vendored
+*/** linguist-vendored
+*.* linguist-vendored
+*/*.* linguist-vendored
