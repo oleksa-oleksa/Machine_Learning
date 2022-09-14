@@ -1,4 +1,4 @@
-** linguist-vendored
-*/** linguist-vendored
-*.* linguist-vendored
-*/*.* linguist-vendored
+Python_for_MachineLearning_TU_Berlin_WS1920/** linguist-vendored
+*.ipynb linguist-vendored
+Python_for_MachineLearning_TU_Berlin_WS1920/*.* linguist-vendored
+*/*.ipynb linguist-vendored
